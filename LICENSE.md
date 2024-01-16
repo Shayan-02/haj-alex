@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
+Copyright (c) 2019 - present [Shayan-02](https://github.com/Shayan-02/)
 
 <br />
 
@@ -29,4 +29,4 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 <br />
 
 ---
-For more information regarding licensing, contact the AppSeed Service < *support@appseed.us* >
+For more information regarding licensing, contact the AppSeed Service < *<https://github.com/Shayan-02/>* >
