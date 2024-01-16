@@ -18,7 +18,7 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 
 - 👉 [Django React Soft Dashboard]() - product page
 - 👉 [Django React Soft Dashboard]() - LIVE Demo
-- 🎁 Free [Support](https://appseed.us/support) via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+- 🎁 Free [Support]() via Github (issues tracker) and [Github](https://github.com/Shayan-02/).
 
 <br />
 
