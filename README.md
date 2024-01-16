@@ -16,9 +16,9 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 
 > Links
 
-- 👉 [Django React Soft Dashboard]() - product page
-- 👉 [Django React Soft Dashboard]() - LIVE Demo
-- 🎁 Free [Support]() via Github (issues tracker) and [Github](https://github.com/Shayan-02/).
+- 👉 [Django React Soft Dashboard](https://appseed.us/product/django-react-soft-dashboard) - product page
+- 👉 [Django React Soft Dashboard](https://django-react-soft-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
+- 🎁 Free [Support](https://appseed.us/support) via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
@@ -233,10 +233,10 @@ authorization: JWT_TOKEN (returned by Login request)
 
 ## Links & Resources
 
-- Ask for [Support]() on [Discord](https://discord.gg/fZC6hup)
-- See for [React Starters]() - index provided by AppSeed
+- Ask for [Support](https://appseed.us/support) on [Discord](https://discord.gg/fZC6hup)
+- See for [React Starters](https://appseed.us/apps/react) - index provided by AppSeed
 
 <br />
 
 ---
-[Django React Soft Dashboard]() - Provided by **AppSeed [App Generator]()**.
+[Django React Soft Dashboard](https://appseed.us/product/django-react-soft-dashboard) - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
